@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> hello </title>
+</head>
+<body>
+<?php
+$x=6;
+$y=4;
+$sum = $x + $y;
+$diff = $x - $y;
+$div = $x / $y;
+$mul = $x * $y;
+
+echo "Sum=".$sum."<br>";
+echo "Diff=".$diff."<br>";
+echo "div=".$div."<br>";
+echo "MUl=".$mul."<br>";
+
+?>
+</body>
+</html>
+ 
